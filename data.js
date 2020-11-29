@@ -1,9 +1,9 @@
 var resumeData = {
     'about' :{
-        name : 'Kartik Maurya',
-        email : 'mauryakartik@gmail.com',
-        designation : 'Software Engineer',
-        currentCity : 'Bengaluru, India',
+        name : 'Brandon Jones',
+        email : 'bcjones2016@gmail.com',
+        designation : 'Game Designer',
+        currentCity : 'Baltimore, Maryland',
         resumeLink: 'https://9kartik.github.io/resume',
         imgurl: 'https://avatars0.githubusercontent.com/u/2690844',
         metaTags : [
@@ -13,7 +13,7 @@ var resumeData = {
             },
             {
                 property : 'og:description',
-                value : 'Kartik Maurya (Software Engineer)'
+                value : 'Brandon Jones (Game Designer)'
             },
             {
                 property : 'og:url',
@@ -25,14 +25,14 @@ var resumeData = {
             },
             {
                 property : 'og:title',
-                value : 'Kartik Maurya\'s - Professional Journey'
+                value : 'Brandon Jones\'s - Professional Journey'
             }
         ],
         contactLinks:[
             {
                 url : 'mailto:someone@example.com?Subject=Mailing through your resume link',
                 logo : 'https://img.icons8.com/material-two-tone/344/important-mail.png',
-                name : 'mauryakartik@gmail.com'
+                name : 'bcjones2016@gmail.com'
             },
             {
                 url : 'tel:+918310387321',
