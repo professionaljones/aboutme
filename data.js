@@ -35,19 +35,14 @@ var resumeData = {
                 name : 'bcjones2016@gmail.com'
             },
             {
-                url : 'tel:+918310387321',
+                url : 'tel:+1-4438034952',
                 logo : 'https://img.icons8.com/android/24/FF0045/cell-phone.png',
-                name : '+91-8310387321'
-            },
-            {
-                url : 'tel:+91-9535680359',
-                logo : 'https://img.icons8.com/android/24/FF5500/cell-phone.png',
-                name : '+91-9535680359'
+                name : '+1-4438034952'
             }
         ],
         otherLinks :[
             {
-                url : 'https://www.linkedin.com/in/kartik-maurya-692aa892/',
+                url : 'https://www.linkedin.com/in/professionaljones16',
                 logo : 'https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Bug.svg.original.svg',
                 name : 'LinkedIn'
             },
